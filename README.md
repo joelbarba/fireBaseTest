@@ -1,5 +1,8 @@
 # Test1
 
+# fireBaseTest
+Firebase test CRUD with an Angular 7 app, using AngularFirestore
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.2.
 
 ## Development server
